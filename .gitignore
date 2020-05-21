@@ -1,0 +1,4 @@
+*/venv/
+nextjs/.next/
+nextjs/node_modules/
+*/.env
