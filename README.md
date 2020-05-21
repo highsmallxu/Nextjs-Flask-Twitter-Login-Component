@@ -4,7 +4,7 @@ Build a Twitter Authentication flow using NextJS and Python Flask. The full tuto
 
 ## Preview
 
-
+![Preview](preview.gif)
 
 ## Architecture
 
